@@ -12,6 +12,6 @@ Get service
 Remplacer un service
 <img src="Capture d’écran 2023-11-15 193028.png" width="500" height="300"> 
 Supprimer un service
-<img src="Capture d’écran 2023-11-15 192827.png" width="500" height="400"> 
-<img src="Capture d’écran 2023-11-15 195103.png" width="500" height="400"> 
+<img src="Capture d’écran 2023-11-15 192827.png" width="500" height="300"> 
+<img src="Capture d’écran 2023-11-15 195103.png" width="500" height="300"> 
  
